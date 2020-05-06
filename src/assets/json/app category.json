@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Strategy",
+    "paragraph": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "list": [
+      "Understand the Idea",
+      "Niche Research",
+      "Validate feasibility",
+      "Outline Tech-Specs",
+      "Create Framework",
+      "Ensure Growth"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Flexidy",
+    "paragraph": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",
+    "list": [
+      "Understand the Idea",
+      "Niche Research",
+      "Validate feasibility",
+      "Outline Tech-Specs",
+      "Create Framework",
+      "Ensure Growth"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Aerified",
+    "paragraph": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.",
+    "list": [
+      "Understand the Idea",
+      "Niche Research",
+      "Validate feasibility",
+      "Outline Tech-Specs",
+      "Create Framework",
+      "Ensure Growth"
+    ]
+  }
+]

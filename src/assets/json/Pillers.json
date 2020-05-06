@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Expertise",
+        "metaData": {
+            "description": "We have requisite experience and knowledge of working with the top brands leaders across the globe."
+        }
+    },
+   {
+        "id": 2,
+        "name": "Expertise",
+        "metaData": {
+            "description": "We have requisite experience and knowledge of working with the top brands leaders across the globe."
+        }
+    },
+    {
+        "id": 3,
+        "name": "Expertise",
+        "metaData": {
+            "description": "We have requisite experience and knowledge of working with the top brands leaders across the globe."
+        }
+    },    
+    {
+        "id": 4,
+        "name": "Expertise",
+        "metaData": {
+            "description": "We have requisite experience and knowledge of working with the top brands leaders across the globe."
+        }
+    },
+     {
+        "id": 5,
+        "name": "Expertise",
+        "metaData": {
+            "description": "We have requisite experience and knowledge of working with the top brands leaders across the globe."
+        }
+    },
+    {
+        "id": 6,
+        "name": "Expertise",
+        "metaData": {
+            "description": "We have requisite experience and knowledge of working with the top brands leaders across the globe."
+        }
+    }
+  
+]
